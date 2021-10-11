@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Sahil Shaikh is a Full Stack Developer, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Sahil Shaikh, Sahil, Shaikh, sahil1634,, software engineer, full stack developer, CCN, web developer, javascript, node, react, payment app, gateway, Shirdi, django, pune',
+    'Sahil Shaikh, Sahil, Shaikh, sahilshaikh1634, software engineer, full stack developer, CCN, web developer, javascript, node, react, payment app, gateway, Shirdi, django, pune',
   siteUrl: 'https://atsahil.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-209788112-1',

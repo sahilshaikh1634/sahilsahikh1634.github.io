@@ -1,19 +1,19 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/sahilshaikh1634/sahilsahikh1634.github.io/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io/tree/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://atsahil.me/" target="_blank">sahilsahikh1634.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The second iteration of <a href="https://atsahil.me/" target="_blank">atsahil.me</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/sahilshaikh1634/sahilsahikh1634.github.io" target="_blank">Version 1</a>
+  <a href="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilsahikh1634.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io/tree/main/src/images/demo.png" />
 </div>
 
 ### TL;DR
