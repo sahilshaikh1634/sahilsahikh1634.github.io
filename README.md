@@ -13,11 +13,7 @@
 </p>
 
 <div align="center">
-<<<<<<< HEAD
   <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io/tree/main/src/images/demo.png" />
-=======
-  <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io/blob/code/src/images/demo.png" />
->>>>>>> 2a845306b7a3b97899c53d2b8023df5d9beb1bdb
 </div>
 
 ### TL;DR
