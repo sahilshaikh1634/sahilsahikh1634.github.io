@@ -9,11 +9,11 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/sahilshaikh1634/sahilsahikh1634.github.io" target="_blank">Version 1</a>
+  <a href="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io" target="_blank">Version 1</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilsahikh1634.github.io/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/sahilshaikh1634/sahilshaikh1634.github.io/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR
