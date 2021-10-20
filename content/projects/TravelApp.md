@@ -1,7 +1,7 @@
 ---
 date: '2020'
 title: 'Travel Based Website.'
-github: 'https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator'
+github: ''
 external: ''
 tech:
   - Django
