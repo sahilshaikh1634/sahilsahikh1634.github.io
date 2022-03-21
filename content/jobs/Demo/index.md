@@ -1,7 +1,7 @@
 ---
-date: '2020-07-30'
-title: 'Not Yet Can Be With You.'
-company: 'Lets Connect'
+date: '2021-12-01'
+title: 'Junior Functional Consultant'
+company: 'Tietoevry'
 range: ''
-url: '#contact'
+url: 'https://www.tietoevry.com/'
 ---
