@@ -1,7 +1,7 @@
 ---
 date: '2020'
 title: 'Artistic Style Algorithm Using CCN'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+github: ''
 external: ''
 tech:
   - Machine Learning 
